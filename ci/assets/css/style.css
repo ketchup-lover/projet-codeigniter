@@ -1,0 +1,233 @@
+
+
+.icons
+{
+height: 100px;
+width: 120px;
+}
+
+
+
+.msg_erreur_ext
+{
+margin-left: 400px;
+}
+
+
+.msg_erreur_photo
+{
+left: 80px;
+}
+
+  .div_notlog_message
+{
+background-color: #2C3E50;
+padding-top: 70px;
+padding-bottom: 70px;
+margin-top: 30px;
+margin-bottom: 50px;
+border-radius: 25px;
+margin-top: 250px;
+
+}
+
+.color_white
+{
+color: white;
+font-size: 30px;
+}
+
+.bouton_details
+{
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-bottom: 5px;
+}
+
+.bouton_supprimer
+{
+  margin-top: 5px;
+}
+
+
+.bouton_ajout
+{
+margin-top:  25px;
+}
+
+.bouton_modifier
+{
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.image_detail
+{
+margin-top: 80px;
+height: 300px;
+width: 500px;
+margin-right: 555px;
+}
+
+.details
+{
+
+margin-top: 20px;
+}
+
+.div_modif
+{
+margin-top: 55px;
+border-left: 4px groove black;
+  height: 600px;
+
+}
+.description
+{
+margin-top: 80px;
+margin-left: 240px;
+}
+
+.textarea_details
+{
+margin-bottom: 40px;
+margin-left: 200px;
+}
+
+.affichage_login
+{
+background-color: #2C3E50;
+padding-top: 70px;
+padding-bottom: 70px;
+margin-top: 30px;
+margin-bottom: 50px;
+border-radius: 25px;
+margin-top: 250px;
+}
+
+.white
+{
+color: white;
+}
+
+.navbar_color
+{
+background-color: #2C3E50;
+border-radius: 5px;
+}
+
+.cart_img
+{
+height: 25px;
+width: 25px;
+}
+
+.logo_img
+{
+height: 40px;
+width: 50px;
+}
+
+.rounded_corners
+{
+border-radius: 25px;
+
+}
+
+.font_1
+{
+font-family: Impact, Charcoal, sans-serif;
+font-size: 35px;
+}
+
+.logo_img_title
+{
+height: 40px;
+width: 40px;
+}
+
+.bordered
+{
+border-left: 4px solid #2C3E50;
+border-right: 4px solid #2C3E50;
+border-top: 4px solid #2C3E50;
+background-color: #2C3E50;
+caption-side:top;
+border-radius: 5px;
+font-size: 25px;
+}
+
+.dark-blue
+{
+background-color: #2C3E50;
+}
+
+#table
+{
+border-color:#2C3E50;
+border-width: 3px;
+
+}
+
+.image_panier
+{
+height: 60px;
+width: 60px;
+border-radius: 75px;
+}
+
+.border_radius_20
+{
+border-radius: 25px;
+background-color:#2C3E50;
+color: white;
+}
+.border_white
+{
+border: 5px solid white;
+border-radius: 15px;
+}
+
+.titre-navbar
+{
+width: 100px;
+
+float: none;
+
+margin: 0 auto;
+
+text-align: center;
+}
+
+
+@media only screen and (min-width: 600px) {
+.titre_navbar
+{
+margin-left: 540px;
+
+text-align: center;
+
+}
+.class_bug_dropdown
+{
+margin-left: 700px;
+}
+
+.bug_titre_detail
+{
+margin-left: 620px;
+text-align: center;
+}
+
+}
+
+. panier_position_contenu
+{
+bottom: 30em;
+}
+
+.pagination
+{
+
+}
